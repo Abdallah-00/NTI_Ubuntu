@@ -46,9 +46,21 @@ and relative path for the file mycv
   ![image](https://github.com/user-attachments/assets/16acbb3c-872b-4738-8b1a-7b1a9317cdea)
 
 10.Display the last 7 lines of /etc/passwd
+   ![image](https://github.com/user-attachments/assets/ec5f9e17-5959-42b7-99f8-cd8e6754624f)
+
 11.Display the man pages of passwd the command and the file sequentially in one command.
+![image](https://github.com/user-attachments/assets/072795e9-f9d4-4b83-9b4f-9c44769546d4)
+![image](https://github.com/user-attachments/assets/1c845bd4-db8e-40e9-8706-ba5ee57ca74e)
+
+
 12.Display the man page of the passwd file.
+   ![image](https://github.com/user-attachments/assets/5ae1302e-7290-456a-8686-a576ae6af725)
+   ![image](https://github.com/user-attachments/assets/102d314b-b806-4daf-8435-80023576e10a)
+
+
 13.Display a list of all the commands that contain the keyword passwd in their man page.
+   ![image](https://github.com/user-attachments/assets/704985c6-8c5e-4818-8d5f-c85cfe8c32f9)
+
 14. Using vi write your CV in the file mycv. Your CV should include your name, age, school,
 college, experience,...
 15. Open mycv file using vi command then: Without using arrows state how to:
